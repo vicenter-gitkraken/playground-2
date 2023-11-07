@@ -4,4 +4,3 @@
 Playground 2 new changes
 changes
 new changes
-We add an extra line 
